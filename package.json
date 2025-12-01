@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "day01": "ts-node day01/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erebe42/Advent-Of-Code-2025.git"
+  },
+  "author": "Yanis Breton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erebe42/Advent-Of-Code-2025/issues"
+  },
+  "homepage": "https://github.com/Erebe42/Advent-Of-Code-2025",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
