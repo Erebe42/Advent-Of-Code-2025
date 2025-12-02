@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "day01": "ts-node day01/index.ts"
+    "day01": "ts-node day01/index.ts",
+    "day02": "ts-node day02/index.ts"
   },
   "repository": {
     "type": "git",
