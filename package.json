@@ -9,7 +9,8 @@
     "day04": "ts-node day04/index.ts",
     "day05": "ts-node day05/index.ts",
     "day06": "ts-node day06/index.ts",
-    "day07": "ts-node day07/index.ts"
+    "day07": "ts-node day07/index.ts",
+    "day08": "ts-node day08/index.ts"
   },
   "repository": {
     "type": "git",
